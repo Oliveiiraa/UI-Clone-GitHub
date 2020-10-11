@@ -15,7 +15,7 @@
 
 <h2 align=center> Resultado </h2>
 <p align=center>
-  <img width="500px" src="https://drive.google.com/uc?export=view&id=146KElseksli2YbGvXB2VHhGd5-kxp1Ig">
+  <img width="500px" src="../demo.png">
 </p>
 
 # :fire: Tecnologias
