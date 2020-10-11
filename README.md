@@ -15,7 +15,7 @@
 
 <h2 align=center> Resultado </h2>
 <p align=center>
-  (/demo.png?raw=true "Print Tela Inicial do Site")
+  <img width="500px" src="https://github.com/Oliveiiraa/Ui-Clone-GitHub/blob/master/demo.png">
 </p>
 
 # :fire: Tecnologias
