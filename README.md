@@ -1,4 +1,4 @@
-# UI GitHub
+# UI Clone GitHub
 
 <p>
   <a href="https://github.com/oliveiiraa">
@@ -15,7 +15,7 @@
 
 <h2 align=center> Resultado </h2>
 <p align=center>
-  <img width="500px" src="../demo.png">
+  (/demo.png?raw=true "Print Tela Inicial do Site")
 </p>
 
 # :fire: Tecnologias
